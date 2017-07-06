@@ -3,3 +3,8 @@ __pycache__
 bvlc-alexnet.npy
 train.p
 .vscode
+*network.index*
+*network.meta*
+*network.data*
+checkpoint
+*.gitignore~*
